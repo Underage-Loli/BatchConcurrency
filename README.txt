@@ -1,3 +1,3 @@
-Basic MultiThreading EXAMPLE In Batch Script.
+it works,
 
-NOT ACTUAL MULTITHREADING!
+But its pretty poor.
